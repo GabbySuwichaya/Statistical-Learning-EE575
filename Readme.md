@@ -5,7 +5,29 @@ Our goal is to provide the code-based visualization and exercises to understand 
  
 ### Topics
 
-The coding scripts & excercises are comming soon
+The coding scripts & excercises are 
+
+- [x] [Tutorial 1:  Linear Regression *to support Lecture III* ](Tutorial1/main.ipynb) 
+
+<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial1/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+    - Examples of how to use the OLS package
+    - Exercise **
+  
+- [x] [Tutorial 2: Robust Regression *to support Lecture IV*](Tutorial2/main.ipynb) 
+
+<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial2/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+    - Least Square Regression 
+    - Robust Regression Model 
+    - Robust Regression Model with Huber Loss ** Exercise 
+    - Weighted Least Square ** Exercise
+
+
   
 ### Getting Started
 
