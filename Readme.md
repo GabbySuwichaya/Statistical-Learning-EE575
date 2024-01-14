@@ -55,6 +55,9 @@ The coding scripts & excercises are
 
 - [x] [Homework 1: Implementing IRLS](Homework1/main.ipynb)
 
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Homework1/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
   The topics covered in `main.ipynb`  are: 
 
   - Data Visualization and Preprocessing
