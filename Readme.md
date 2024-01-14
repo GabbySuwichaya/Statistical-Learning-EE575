@@ -52,6 +52,10 @@ The coding scripts & excercises are
     - Hypothesis Testing
     - Statsmodels P-value
     - Steps of calculating P-value
+
+- [x] [Homework 1: Implementing IWL](Homework1/main.ipynb)
+
+    
     
 ### Getting Started
 
