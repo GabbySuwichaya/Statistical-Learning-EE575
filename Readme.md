@@ -53,9 +53,15 @@ The coding scripts & excercises are
     - Statsmodels P-value
     - Steps of calculating P-value
 
-- [x] [Homework 1: Implementing IWL](Homework1/main.ipynb)
+- [x] [Homework 1: Implementing IRLS](Homework1/main.ipynb)
 
-    
+  The topics covered in `main.ipynb`  are: 
+
+  - Data Visualization and Preprocessing
+  - Ordinary Least Square  
+  - Weighted Least Square << You implementation >>  
+  - Iterative Reweighted Least Square   << You implementation >> 
+  - Compare all the results 
     
 ### Getting Started
 
