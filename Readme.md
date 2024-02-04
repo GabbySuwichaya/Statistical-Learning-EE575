@@ -88,10 +88,7 @@ The coding scripts & excercises are
   </a>
 
   In this tutorial, we will build a BNN with Pyro ...
-  Each network has 2 linear layers with 1 activating function (sigmoid).
-  We set the same learning rate and number of epoches to compare which model is better... 
-
-  You can skip to each of the following topics...
+   
   - [Install package](#installing-package)
   - [Import data](#import-data) 
   - [Bayesian neural network (Pyro)](#bayesian-neural-network-Pyro)    
