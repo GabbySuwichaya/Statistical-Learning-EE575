@@ -66,6 +66,20 @@ The coding scripts & excercises are
   - Iterative Reweighted Least Square   << You implementation >> 
   - Compare all the results 
     
+- [x] [Tutorial 4](Tutorial4/main.ipynb)
+
+<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial4/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+ The topics covered in `Tutorial4/main.ipynb`  are: 
+
+    - Bayesian Neural Network *Lecture 10.*
+    - Buiding the BNN from Pytorch model
+    - Bayes-by-backprop algorithm for training BNN. 
+    - Compare the BNN with NN using the same neural network architecture and learning setting.
+    - Also, how to train a simple network for regression task. 
+
 ### Getting Started
 
 1. Change the directory to the `Tutorial` folder.
