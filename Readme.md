@@ -68,17 +68,37 @@ The coding scripts & excercises are
     
 - [x] [Tutorial 4: Bayesian Neural Network](Tutorial4/main.ipynb)
 
-<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial4/main.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial4/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
- The topics covered in `Tutorial4/main.ipynb`  are: 
+  The topics covered in `Tutorial4/main.ipynb`  are: 
 
     - Bayesian Neural Network *Lecture 10.*
     - Buiding the BNN from Pytorch model
     - Bayes-by-backprop algorithm for training BNN. 
     - Compare the BNN with NN using the same neural network architecture and learning setting.
     - Also, how to train a simple network for regression task. 
+    - Our implementation is based on [Nitarshan's Bayes-by-backprop](https://github.com/nitarshan/bayes-by-backprop) and 'Weight Uncertainty Neural Network' JMRL 2018. 
+
+- [x] [Tutorial 4: Quick start on Pyro](Tutorial4/Pyro_quickstart.ipynb)
+
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial4/Pyro_quickstart.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
+  In this tutorial, we will build a BNN with Pyro ...
+  Each network has 2 linear layers with 1 activating function (sigmoid).
+  We set the same learning rate and number of epoches to compare which model is better... 
+
+  You can skip to each of the following topics...
+  - [Install package](#installing-package)
+  - [Import data](#import-data) 
+  - [Bayesian neural network (Pyro)](#bayesian-neural-network-Pyro)    
+  - [Training BNN](#training-bnn) 
+  - [Prediction BNN](#prediction)
+
+  Our implementation is based on [Pyro Stochastic Variational Inference](https://pyro.ai/examples/bayesian_regression.html#Bayesian-Regression-with-Pyro%E2%80%99s-Stochastic-Variational-Inference-(SVI)) 
 
 ### Getting Started
 
