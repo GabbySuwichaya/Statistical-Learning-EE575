@@ -1,5 +1,10 @@
 ## Tasks
 
+<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/LAB2/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+ 
+
 Please save your results and zip them as 63xxxxxxx.zip
 
 
