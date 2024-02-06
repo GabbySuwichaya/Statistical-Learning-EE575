@@ -13,7 +13,7 @@ Please save your results and zip them as 63xxxxxxx.zip
 
     3. [1 scores, if the data spliting is correct]  Split the `house-price` datasets into training 80% and testing 20%. In the training part, divide 10% of the training data for validation. 
 
-    4. [3+3 scores, if the learning is correct] Show the progress of the training and validation losses for both models.  
+    4. [3+3 scores, if the learning is correct] Show the progress of the training and validation losses.  
 
     5. [2 scores, if the results are reasonable] Perform the evaluation using MSE, MAE, and R^2 
     
