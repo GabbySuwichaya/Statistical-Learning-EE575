@@ -66,7 +66,7 @@ The coding scripts & excercises are
   - Iterative Reweighted Least Square   << You implementation >> 
   - Compare all the results 
     
-- [x] [Tutorial 4: Bayesian Neural Network](Tutorial4/main.ipynb)
+- [x] [Tutorial 4: Static Neural Network and Bayesian Neural Network](Tutorial4/main.ipynb)
 
   <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial4/main.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -96,6 +96,19 @@ The coding scripts & excercises are
   - [Prediction BNN](#prediction)
 
   Our implementation is based on [Pyro Stochastic Variational Inference](https://pyro.ai/examples/bayesian_regression.html#Bayesian-Regression-with-Pyro%E2%80%99s-Stochastic-Variational-Inference-(SVI)) 
+
+- [x] [Lab 2: Neural Network Quiz, Static NN Implementation, BNN Implementation](Lab2/main.ipynb)
+
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Lab2/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
+  In this lab session/homework assignment, you will be tasked to 
+  - Answering some quizzes about DNN  
+  - Implementing the DNN from Pytorch model
+  - Implementing the BNN from Pytorch model
+
+
 
 ### Getting Started
 
