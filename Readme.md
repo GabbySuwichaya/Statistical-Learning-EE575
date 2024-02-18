@@ -109,6 +109,16 @@ The coding scripts & excercises are
   - Implementing the BNN from Pytorch model
 
 
+- [x] [Lab 3: Classification quiz, Logistic regression, kNN, LDA, QDA](Lab3/main.ipynb)
+
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Lab3/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
+  In this lab session/homework assignment, you will be tasked to 
+  - Answering some quizzes about feature correlation, logistic regression, kNN, LDA, and QDA  
+  - Implementing the logistic regression, kNN, LDA, and QDA  
+  - Making analysis of the results and evaluation such as confusion matrix, precision-recall, etc.
 
 ### Getting Started
 
