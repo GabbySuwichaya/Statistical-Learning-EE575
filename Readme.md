@@ -9,25 +9,25 @@ The coding scripts & excercises are
 
 - [x] [Tutorial 1:  Linear Regression *to support Lecture III* ](Tutorial1/main.ipynb) 
 
-<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial1/main.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial1/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
     - Examples of how to use the OLS package
     - Exercise **
   
 - [x] [Tutorial 2: Robust Regression *to support Lecture IV*](Tutorial2/main.ipynb) 
 
-<a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial2/main.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial2/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
     - Least Square Regression 
     - Robust Regression Model 
     - Robust Regression Model with Huber Loss ** Exercise 
     - Weighted Least Square ** Exercise
 
-- [x] Tutorial 3: Feature Selection and P-value Calculation*
+- [x] [Feature Selection](Tutorial3/FeatureSelection.ipynb) and  [P-Value Calculation](Tutorial3/Pvalue.ipynb)
 
 [Tutorial 3: Feature Selection](Tutorial3/FeatureSelection.ipynb)
   
@@ -57,6 +57,7 @@ The coding scripts & excercises are
 
   <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Homework1/main.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a> 
 
   The topics covered in `main.ipynb`  are: 
 
@@ -119,6 +120,20 @@ The coding scripts & excercises are
   - Answering some quizzes about feature correlation, logistic regression, kNN, LDA, and QDA  
   - Implementing the logistic regression, kNN, LDA, and QDA  
   - Making analysis of the results and evaluation such as confusion matrix, precision-recall, etc.
+
+- [x] [Tutorial 5: Support vector machine](Tutorial5/main.ipynb)
+
+  <a target="_blank" href="https://colab.research.google.com/github/GabbySuwichaya/Statistical-Learning-EE575/blob/master/Tutorial5/main.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
+  - In this tutorial, we will build SVM for multi-class classification. 
+  - SVM does not support multiclass classification natively. 
+  - Two commonly used approaches that extend SVM for multiclass classification are 
+    - One-vs-One and 
+    - One-vs-Rest. 
+  - In this exercise we apply multiclass classification using SVM to classify number 0-10 from MNIST dataset. 
+
 
 ### Getting Started
 
